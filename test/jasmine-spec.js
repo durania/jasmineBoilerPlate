@@ -15,7 +15,7 @@ describe("Given my code", function () {
 		});
 		
 		it("Then...", function () {
-			expect(true).toEqual(true);
+			expect(true).toEqual(false);
 		});
 	});
 });
